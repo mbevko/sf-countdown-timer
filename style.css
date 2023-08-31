@@ -29,3 +29,9 @@ body {
     font-size: 5em;
     text-align: center;
 }
+
+@media (max-width:800px) {
+    .timer {
+        font-size: 4em;
+    }
+}
