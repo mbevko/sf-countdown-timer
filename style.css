@@ -31,6 +31,11 @@ body {
 }
 
 @media (max-width:800px) {
+
+    body {
+        background-position: center;
+    }
+
     .timer {
         font-size: 50pt;
     }
