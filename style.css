@@ -1,0 +1,31 @@
+body {
+    
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: url(./first-steps-1920-x1080.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;    
+    overflow: hidden;
+    background-attachment: fixed;
+}
+
+.time-cont {
+    color: rgb(217, 252, 254);
+    font-family: 'Space Mono', monospace;
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.timer {
+    text-align: center;
+    font-size: 5em;
+    text-align: center;
+}
