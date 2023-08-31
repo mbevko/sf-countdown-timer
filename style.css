@@ -32,6 +32,6 @@ body {
 
 @media (max-width:800px) {
     .timer {
-        font-size: 4em;
+        font-size: 50pt;
     }
 }
